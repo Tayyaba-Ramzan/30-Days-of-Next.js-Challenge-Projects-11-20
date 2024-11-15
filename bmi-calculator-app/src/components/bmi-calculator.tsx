@@ -80,8 +80,8 @@ export default function BmiCalculator() {
       <Image
         src={"/bmi-img.png"}
         alt="Bmi-Img"
-        height={300}
-        width={300}
+        height={400}
+        width={400}
       />
     </div>
     <CardHeader>
