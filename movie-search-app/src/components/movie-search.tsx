@@ -94,7 +94,7 @@ export default function MovieSearch() {
                 )}
                 {error && (
                     <div className="text-red-500 text-center mb-4 italic">
-                        {error}. Please try searching for another movie.
+                        {error}. Please try searching for another movies.
                     </div>
                 )}
                 {movieDetails && (
